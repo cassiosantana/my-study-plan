@@ -7,6 +7,8 @@
   <a href="#tecnologias-e-ferramentas">Tecnologias e ferramentas</a>
 </p>
 
+https://user-images.githubusercontent.com/43866953/232634326-4071d9a3-07df-4509-8d8f-2ab1a0887c19.mp4
+
 ## Objetivos
 
 <p>Este repositório foi criado para me ajudar a gerenciar meus estudos e tarefas relacionadas centralizando <a href= "https://github.com/cassiosantana/my-study-plan/projects">projects</a> onde cada um representa um curso e cada curso possui seu próprio repositório, project e issues, porém as issues deste repositório representa uma tarefa da mentoria que participo da <a href="https://desenvolvendo.me"/>Desenvolvendo-me</a>. Nosso mentor chama-se <a href="https://www.linkedin.com/in/marcodotcastro/">Marco Castro</a>, profissional especialisa em carreira de TI com quase 20 anos de experiência. Na mentoria estou desenvolvendo habilidades de um super desenvolvedor que entende que programador resolve problemas, sabe se gerenciar, sabe estudar e que deve mirar as estrelas pois caso erre acertará o céu.</p>
