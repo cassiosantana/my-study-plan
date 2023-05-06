@@ -4,7 +4,9 @@
   <a href="#objetivos">Objetivos</a> •
   <a href="#soft-skills">Soft skills</a> •
   <a href="#hard-skills">Hard Skills</a> •
-  <a href="#tecnologias-e-ferramentas">Tecnologias e ferramentas</a>
+  <a href="#tecnologias-e-ferramentas">Tecnologias e ferramentas</a> •
+  <a href="#nível">Nível</a> •
+  <a href="#missão">Missão</a>
 </p>
 
 https://user-images.githubusercontent.com/43866953/232634326-4071d9a3-07df-4509-8d8f-2ab1a0887c19.mp4
@@ -53,3 +55,17 @@ Nossa equipe tem oportunidade de adquirir e aperfeiçoar habilidades Hard Skills
 - Gather, 
 - Postgres, 
 - Restful.
+
+## Nível
+
+Atualmente estou na Fase 3 - Executar, nível 5 :sunglasses:.
+Nesta etapa estou mergulhando de cabeça na programação para desenvolver habilidades técnicas e comportamentais de um super programador Júnior.
+
+#### Terei como metas:
+
+- Gerenciar tempo e tarefas, no trabalho e fora. 
+- Desenvolver uma solução para ser uma empresa ou portifólio e ser reconhecido  no mercado de programação.
+
+## Missão
+
+Nesta fase 3, realizarei a missão :rocket: Startup :rocket:.
